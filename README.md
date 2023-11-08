@@ -1,4 +1,4 @@
-## NFT Portal
+## XRPL NFT Portal
 A Smart contract in Solidity and a Web3 app to Mint your own NFT collection. Frontend made with React to let users connect their wallets and interact with the NFTs.
 The smart contract is verified and live on the Ethereum testnet.
 Mint your own NFTs now!!!
